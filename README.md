@@ -31,6 +31,8 @@
 
 # git clone  https://github.com/SpyCyber404/Setup
 
-#  cd SpyCyber404
+#  cd Setup
 
-#  python Setup.py
+#  ls
+
+#  python Spy-setup.py
