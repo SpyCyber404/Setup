@@ -9,7 +9,7 @@
 # git clone https://github.com/SpyCyber404/Setup
 # cd Setup
 # ls
-# python Spy-setup.py
+# python spy-setup.py
 
 
 
